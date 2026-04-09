@@ -1,4 +1,4 @@
-# 📌 Problem: Contains Duplicate
+# 📌 Problem 1: Contains Duplicate
 
 * LeetCode #: 217
 * Approach: HashSet / Sorting / Brute Force
