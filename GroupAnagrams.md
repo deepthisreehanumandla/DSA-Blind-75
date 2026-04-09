@@ -1,4 +1,4 @@
-# 📌 Problem: Group Anagrams
+# 📌 Problem 4: Group Anagrams
 
 * LeetCode #: 49
 * Approach: HashMap / Sorting / Counting
