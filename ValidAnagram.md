@@ -1,4 +1,4 @@
-# 📌 Problem: Valid Anagram
+# 📌 Problem 2: Valid Anagram
 
 * LeetCode #: 242
 * Approach: Counting / HashMap / Sorting
