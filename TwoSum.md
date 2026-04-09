@@ -1,4 +1,4 @@
-# 📌 Problem: Two Sum
+# 📌 Problem 3: Two Sum
 
 * LeetCode #: 1
 * Approach: HashMap / Brute Force / Sorting (Two Pointer)
