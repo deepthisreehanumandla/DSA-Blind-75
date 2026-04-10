@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Intuition
+## 🧠 Intuition  
 
 Anagrams have the same characters in different order.  
 If we can convert each word into a common form (key), we can group them together.
