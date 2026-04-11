@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Intuition
+## 🧠 Intuition 
 
 We need to check if any number appears more than once.  
 If we can quickly remember what we've already seen, we can detect duplicates easily.  
